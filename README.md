@@ -11,6 +11,10 @@ This lab simulates a multi-level enterprise network including:
 - Inter-VLAN routing
 - WAN link simulation (10.10.10.0/30)
 
+## Network Topology
+
+![Enterprise Network Topology](diagrams/enterprise-network-topology.png)
+
 ---
 
 ## Objectives
