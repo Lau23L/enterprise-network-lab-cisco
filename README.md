@@ -1,10 +1,15 @@
 # Enterprise Network Lab – Cisco Packet Tracer
 
-## Project Overview
+## Project Scope
 
-This project simulates the design and configuration of a small-to-medium enterprise network using Cisco Packet Tracer.
+This lab simulates a multi-level enterprise network including:
 
-The lab includes VLAN segmentation, inter-VLAN routing, DHCP configuration, and Access Control Lists (ACLs) to simulate real-world network infrastructure.
+- ISP connectivity simulation
+- Core router with subinterfaces (Router-on-a-Stick)
+- VLAN segmentation across multiple switches
+- Dedicated server VLAN
+- Inter-VLAN routing
+- WAN link simulation (10.10.10.0/30)
 
 ---
 
@@ -37,6 +42,7 @@ The lab includes VLAN segmentation, inter-VLAN routing, DHCP configuration, and 
 - Infrastructure troubleshooting
 - Security best practices
 - Structured documentation
+
 
 ---
 
